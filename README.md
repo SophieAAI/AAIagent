@@ -1,5 +1,9 @@
 # Sophie Autonomous Intelligence Agent
 
+
+![New Project (7)](https://github.com/user-attachments/assets/1391d956-43cd-42c5-9be0-c4438386dbea)
+
+
 Inspired by Eliza and Zara. Written in python to make it easier to use transformers and other ML libraries.
 
 ```
